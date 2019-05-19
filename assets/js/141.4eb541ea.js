@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[141],{814:function(t,e,n){"use strict";n.r(e);var i=n(1),s=Object(i.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("vs-textarea",{attrs:{label:"Width set to 300px",width:"300px"}})],1)},[],!1,null,null,null);s.options.__file="Width.vue";e.default=s.exports}}]);
